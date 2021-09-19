@@ -1,0 +1,6 @@
+framework module Pods_TheGuardian {
+  umbrella header "Pods-TheGuardian-umbrella.h"
+
+  export *
+  module * { export * }
+}
